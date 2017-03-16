@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/SolarSystem.dir/main.cpp.o  -o SolarSystem -lGL -lGLU -lglut -lGLEW -lglfw -lX11 -lXi -lXrandr -lXxf86vm -lXinerama -lXcursor -lrt -lm -lpthread -ldl -lSOIL 
