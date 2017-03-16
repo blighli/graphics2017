@@ -1,4 +1,5 @@
 # Compiled Object files
+
 *.slo
 *.lo
 *.o
@@ -28,5 +29,5 @@
 *.out
 *.app
 
-
 .DS_Store
+
