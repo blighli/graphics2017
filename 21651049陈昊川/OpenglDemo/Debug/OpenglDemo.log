@@ -1,0 +1,6 @@
+﻿  main.cpp
+e:\code\vs\opengldemo\opengldemo\main.cpp(37): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\code\vs\opengldemo\opengldemo\main.cpp(40): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\code\vs\opengldemo\opengldemo\main.cpp(44): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  OpenglDemo.vcxproj -> E:\code\vs\OpenglDemo\Debug\OpenglDemo.exe
+  OpenglDemo.vcxproj -> E:\code\vs\OpenglDemo\Debug\OpenglDemo.pdb (Full PDB)
