@@ -111,8 +111,8 @@ int main(int argc, char** argv) {
     glutCreateWindow(argv[0]);
     init();
     glutDisplayFunc(display);
-    glutReshapeFunc(reshape);
-    glutIdleFunc(idle);
+//    glutReshapeFunc(reshape);
+//    glutIdleFunc(idle);
     glutMainLoop();
     return 0;
 }
