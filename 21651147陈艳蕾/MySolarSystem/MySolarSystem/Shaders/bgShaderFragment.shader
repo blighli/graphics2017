@@ -8,4 +8,5 @@ out vec4 color;
 void main()
 {
 	color = vec4(texture(diffuse, TexCoords));
+	color *= 0.3;
 }
