@@ -27,9 +27,3 @@
 *.exe
 *.out
 *.app
-
-# Java
-.settings
-.classpath
-.project
-bin
