@@ -1,0 +1,10 @@
+﻿  LoadObjMode.cpp
+d:\study\course\3d-animation\earth\loadobjmode\loadobjmode.cpp(176): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\course\3d-animation\earth\loadobjmode\loadobjmode.cpp(177): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\course\3d-animation\earth\loadobjmode\loadobjmode.cpp(181): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\course\3d-animation\earth\loadobjmode\loadobjmode.cpp(182): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\course\3d-animation\earth\loadobjmode\loadobjmode.cpp(184): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\course\3d-animation\earth\loadobjmode\loadobjmode.cpp(185): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\course\3d-animation\earth\loadobjmode\loadobjmode.cpp(192): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  LoadObjMode.vcxproj -> D:\study\course\3D-Animation\earth\Debug\LoadObjMode.exe
+  LoadObjMode.vcxproj -> D:\study\course\3D-Animation\earth\Debug\LoadObjMode.pdb (Full PDB)
