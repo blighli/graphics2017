@@ -1,0 +1,33 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Mol_Simu - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP27.tmp" with contents
+[
+glaux.lib v4501v.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/Mol_Simu.pdb" /debug /machine:I386 /out:"Debug/Mol_Simu.exe" /pdbtype:sept 
+".\Debug\Atom.obj"
+".\Debug\Bound.obj"
+".\Debug\MainFrm.obj"
+".\Debug\Mol_Simu.obj"
+".\Debug\Mol_SimuDoc.obj"
+".\Debug\Mol_SimuView.obj"
+".\Debug\Particle.obj"
+".\Debug\StdAfx.obj"
+".\Debug\Vertex.obj"
+".\Debug\Mol_Simu.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP27.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+Mol_Simu.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
