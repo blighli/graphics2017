@@ -1,0 +1,5 @@
+﻿  sunAndEarthAndMoon.cpp
+c:\users\edward\desktop\sunandearthandmoon\model.h(224): fatal error C1083: Cannot open include file: 'SOIL/SOIL.h': No such file or directory
+  stdafx.cpp
+  Shader.cpp
+  Generating Code...
