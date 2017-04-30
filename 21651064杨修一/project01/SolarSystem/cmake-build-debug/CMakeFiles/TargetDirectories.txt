@@ -1,3 +1,0 @@
-/home/aleafall/code/SolarSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/aleafall/code/SolarSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/aleafall/code/SolarSystem/cmake-build-debug/CMakeFiles/SolarSystem.dir

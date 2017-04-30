@@ -1,4 +1,0 @@
-﻿  earth.cpp
-d:\study\course\3d-animation\earth\earth\earth.cpp(75): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-  earth.vcxproj -> D:\study\course\3D-Animation\earth\Debug\earth.exe
-  earth.vcxproj -> D:\study\course\3D-Animation\earth\Debug\earth.pdb (Full PDB)
