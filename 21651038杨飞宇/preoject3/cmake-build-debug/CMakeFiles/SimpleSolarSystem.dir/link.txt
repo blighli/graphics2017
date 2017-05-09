@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/SimpleSolarSystem.dir/main.cpp.o  -o SimpleSolarSystem 
