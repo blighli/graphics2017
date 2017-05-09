@@ -1,0 +1,2064 @@
+# depslib dependency file v1.0
+1480803637 source:u:\cpsc425\solarsystem\disc.cpp
+	<cmath>
+	<iostream>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<OpenGL/glext.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/glext.h>
+	"disc.h"
+
+1467824614 c:\mingw\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1433764774 c:\mingw\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1433764774 c:\mingw\include\_mingw.h
+
+1433764774 c:\mingw\include\stdint.h
+	<stddef.h>
+
+1301111165 c:\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1301111164 c:\mingw\include\gl\gl.h
+
+1426374928 c:\mingw\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1426374928 c:\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1301111162 c:\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1301111163 c:\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1301111164 c:\mingw\include\winuser.h
+
+1301111163 c:\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1301111162 c:\mingw\include\winerror.h
+
+1433764774 c:\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1301111149 c:\mingw\include\basetsd.h
+
+1301111157 c:\mingw\include\pshpack4.h
+
+1301111157 c:\mingw\include\poppack.h
+
+1301111164 c:\mingw\include\winver.h
+
+1301111149 c:\mingw\include\dde.h
+
+1301111150 c:\mingw\include\dlgs.h
+
+1301111149 c:\mingw\include\commctrl.h
+	<prsht.h>
+
+1301111157 c:\mingw\include\prsht.h
+
+1301111162 c:\mingw\include\windef.h
+	<winnt.h>
+
+1301111162 c:\mingw\include\wincon.h
+
+1301111161 c:\mingw\include\winbase.h
+
+1301111162 c:\mingw\include\wingdi.h
+
+1301111163 c:\mingw\include\winnls.h
+
+1301111163 c:\mingw\include\winnetwk.h
+
+1301111163 c:\mingw\include\winreg.h
+
+1301111164 c:\mingw\include\winsvc.h
+
+1301111149 c:\mingw\include\cderr.h
+
+1301111149 c:\mingw\include\ddeml.h
+
+1301111151 c:\mingw\include\imm.h
+
+1301111154 c:\mingw\include\lzexpand.h
+
+1301111154 c:\mingw\include\mmsystem.h
+
+1301111155 c:\mingw\include\nb30.h
+
+1301111158 c:\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1301111158 c:\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1301111149 c:\mingw\include\basetyps.h
+
+1301111159 c:\mingw\include\rpcdcep.h
+
+1301111159 c:\mingw\include\rpcnsi.h
+
+1301111159 c:\mingw\include\rpcnterr.h
+
+1433764774 c:\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1301111160 c:\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1301111157 c:\mingw\include\pshpack2.h
+
+1301111163 c:\mingw\include\winperf.h
+
+1301111149 c:\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1301111161 c:\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1301111156 c:\mingw\include\objfwd.h
+	<basetyps.h>
+
+1301111164 c:\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1301111159 c:\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1301111159 c:\mingw\include\rpcnsip.h
+
+1301111163 c:\mingw\include\winspool.h
+
+1301111163 c:\mingw\include\winsock2.h
+	<windows.h>
+
+1301111163 c:\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1301111155 c:\mingw\include\mswsock.h
+
+1301111156 c:\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1301111155 c:\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1433764774 c:\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1301111156 c:\mingw\include\objidl.h
+	<objfwd.h>
+
+1301111149 c:\mingw\include\cguid.h
+
+1301111156 c:\mingw\include\olectlid.h
+
+1301111156 c:\mingw\include\oleauto.h
+	<oaidl.h>
+
+1301111155 c:\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1301111156 c:\mingw\include\oleidl.h
+	<objfwd.h>
+
+1426374928 c:\mingw\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1301111165 c:\mingw\include\gl\glext.h
+	<windows.h>
+
+1480803637 u:\cpsc425\solarsystem\disc.h
+	"vertex.h"
+
+1481046729 u:\cpsc425\solarsystem\vertex.h
+	<glm/glm.hpp>
+
+1473918302 u:\cpsc425\glm\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1473918302 u:\cpsc425\glm\glm\detail\_fixes.hpp
+	<cmath>
+
+1473918302 u:\cpsc425\glm\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_int.hpp
+	"setup.hpp"
+	<type_traits>
+	<cstdint>
+
+1474825400 u:\cpsc425\glm\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	"../simd/platform.h"
+
+1473918304 u:\cpsc425\glm\glm\simd\platform.h
+	<cuda.h>
+	<intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<nmmintrin.h>
+	<smmintrin.h>
+	<tmmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1473918302 u:\cpsc425\glm\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1474252188 u:\cpsc425\glm\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1473918302 u:\cpsc425\glm\glm\detail\precision.hpp
+	"setup.hpp"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1473918304 u:\cpsc425\glm\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\_swizzle.hpp
+
+1473918302 u:\cpsc425\glm\glm\detail\_swizzle_func.hpp
+
+1473918302 u:\cpsc425\glm\glm\detail\type_vec2.inl
+
+1473918304 u:\cpsc425\glm\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_vec3.inl
+
+1473918304 u:\cpsc425\glm\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_vec4.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_vec4.inl
+	"type_vec4_simd.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_vec4_simd.inl
+
+1473918304 u:\cpsc425\glm\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_mat2x2.inl
+	"func_matrix.hpp"
+
+1473918302 u:\cpsc425\glm\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1473918304 u:\cpsc425\glm\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_mat2x3.inl
+
+1473918304 u:\cpsc425\glm\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_mat2x4.inl
+
+1473918304 u:\cpsc425\glm\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_mat3x2.inl
+
+1473918304 u:\cpsc425\glm\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_mat3x3.inl
+	"func_matrix.hpp"
+
+1473918304 u:\cpsc425\glm\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_mat3x4.inl
+
+1473918304 u:\cpsc425\glm\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_mat4x2.inl
+
+1473918304 u:\cpsc425\glm\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_mat4x3.inl
+
+1473918304 u:\cpsc425\glm\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_mat4x4.inl
+	"func_matrix.hpp"
+	"type_mat4x4_simd.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_mat4x4_simd.inl
+
+1473918302 u:\cpsc425\glm\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+	"func_matrix_simd.inl"
+
+1473918302 u:\cpsc425\glm\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1473918302 u:\cpsc425\glm\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+	"func_geometric_simd.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_vec1.inl
+
+1473918302 u:\cpsc425\glm\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+	"func_exponential_simd.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\func_vector_relational.inl
+	<limits>
+	"func_vector_relational_simd.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\func_vector_relational_simd.inl
+
+1473918302 u:\cpsc425\glm\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1473918302 u:\cpsc425\glm\glm\detail\func_exponential_simd.inl
+	"../simd/exponential.h"
+
+1473918304 u:\cpsc425\glm\glm\simd\exponential.h
+	"platform.h"
+
+1473918302 u:\cpsc425\glm\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+	"func_common_simd.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\func_common_simd.inl
+	"../simd/common.h"
+	<immintrin.h>
+
+1473918304 u:\cpsc425\glm\glm\simd\common.h
+	"platform.h"
+
+1473918302 u:\cpsc425\glm\glm\detail\func_geometric_simd.inl
+	"../simd/geometric.h"
+
+1473918304 u:\cpsc425\glm\glm\simd\geometric.h
+	"common.h"
+
+1473918302 u:\cpsc425\glm\glm\detail\func_matrix_simd.inl
+	"type_mat4x4.hpp"
+	"func_geometric.hpp"
+	"../simd/matrix.h"
+
+1473918304 u:\cpsc425\glm\glm\simd\matrix.h
+	"geometric.h"
+
+1473918304 u:\cpsc425\glm\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1473918302 u:\cpsc425\glm\glm\detail\func_trigonometric.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_trigonometric.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+	"func_trigonometric_simd.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\func_trigonometric_simd.inl
+
+1473918302 u:\cpsc425\glm\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1473918302 u:\cpsc425\glm\glm\common.hpp
+	"detail/func_common.hpp"
+
+1473918304 u:\cpsc425\glm\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1473918302 u:\cpsc425\glm\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+	"func_packing_simd.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\type_half.inl
+
+1473918302 u:\cpsc425\glm\glm\detail\func_packing_simd.inl
+
+1473918304 u:\cpsc425\glm\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1473918304 u:\cpsc425\glm\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1473918304 u:\cpsc425\glm\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1473918302 u:\cpsc425\glm\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_common.hpp"
+	"func_vector_relational.hpp"
+	"func_integer.inl"
+
+1474825090 u:\cpsc425\glm\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+	"func_integer_simd.inl"
+
+1473918302 u:\cpsc425\glm\glm\detail\func_integer_simd.inl
+	"../simd/integer.h"
+
+1473918304 u:\cpsc425\glm\glm\simd\integer.h
+
+1481045941 source:u:\cpsc425\solarsystem\getbmp.cpp
+	<fstream>
+	"getbmp.h"
+
+1481046329 u:\cpsc425\solarsystem\getbmp.h
+
+1480826951 source:u:\cpsc425\solarsystem\main.cpp
+	<cmath>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<OpenGL/glext.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/glext.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<glm/gtc/matrix_inverse.hpp>
+	"shader.h"
+	"sphere.h"
+	"disc.h"
+	"light.h"
+	"material.h"
+	"getbmp.h"
+
+1473918302 u:\cpsc425\glm\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1473918302 u:\cpsc425\glm\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1473918302 u:\cpsc425\glm\glm\gtc\constants.inl
+	<limits>
+
+1473918302 u:\cpsc425\glm\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1473918302 u:\cpsc425\glm\glm\gtc\type_ptr.hpp
+	"../gtc/quaternion.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	<cstring>
+	"type_ptr.inl"
+
+1473918302 u:\cpsc425\glm\glm\gtc\quaternion.hpp
+	"../mat3x3.hpp"
+	"../mat4x4.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"quaternion.inl"
+
+1473918302 u:\cpsc425\glm\glm\gtc\quaternion.inl
+	"../trigonometric.hpp"
+	"../geometric.hpp"
+	"../exponential.hpp"
+	<limits>
+	"quaternion_simd.inl"
+
+1473918302 u:\cpsc425\glm\glm\gtc\quaternion_simd.inl
+
+1473918302 u:\cpsc425\glm\glm\gtc\type_ptr.inl
+	<cstring>
+
+1473918302 u:\cpsc425\glm\glm\gtc\matrix_inverse.hpp
+	"../detail/setup.hpp"
+	"../matrix.hpp"
+	"../mat2x2.hpp"
+	"../mat3x3.hpp"
+	"../mat4x4.hpp"
+	"matrix_inverse.inl"
+
+1473918302 u:\cpsc425\glm\glm\gtc\matrix_inverse.inl
+
+1481046645 u:\cpsc425\solarsystem\shader.h
+
+1481046623 u:\cpsc425\solarsystem\sphere.h
+	"vertex.h"
+
+1480803637 u:\cpsc425\solarsystem\light.h
+	<glm/glm.hpp>
+
+1480803637 u:\cpsc425\solarsystem\material.h
+	<glm/glm.hpp>
+
+1481046163 source:u:\cpsc425\solarsystem\shader.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<cstring>
+	"shader.h"
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<OpenGL/glext.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/glext.h>
+
+1481046243 source:u:\cpsc425\solarsystem\sphere.cpp
+	<cmath>
+	<iostream>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<OpenGL/glext.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/glext.h>
+	"sphere.h"
+
+1480892865 source:c:\users\jwang6\desktop\gfx\solarsystem\disc.cpp
+	<cmath>
+	<iostream>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<OpenGL/glext.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/glext.h>
+	"disc.h"
+
+1480892865 c:\users\jwang6\desktop\gfx\solarsystem\disc.h
+	"vertex.h"
+
+1480892865 c:\users\jwang6\desktop\gfx\solarsystem\vertex.h
+	<glm/glm.hpp>
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\_fixes.hpp
+	<cmath>
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_int.hpp
+	"setup.hpp"
+	<type_traits>
+	<cstdint>
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	"../simd/platform.h"
+
+1477974037 c:\users\jwang6\desktop\gfx\glm\glm\simd\platform.h
+	<cuda.h>
+	<intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<nmmintrin.h>
+	<smmintrin.h>
+	<tmmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\precision.hpp
+	"setup.hpp"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\_swizzle.hpp
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\_swizzle_func.hpp
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_vec2.inl
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_vec3.inl
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_vec4.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_vec4.inl
+	"type_vec4_simd.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_vec4_simd.inl
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_mat2x2.inl
+	"func_matrix.hpp"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_mat2x3.inl
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_mat2x4.inl
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_mat3x2.inl
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_mat3x3.inl
+	"func_matrix.hpp"
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_mat3x4.inl
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_mat4x2.inl
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_mat4x3.inl
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_mat4x4.inl
+	"func_matrix.hpp"
+	"type_mat4x4_simd.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_mat4x4_simd.inl
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+	"func_matrix_simd.inl"
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+	"func_geometric_simd.inl"
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_vec1.inl
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+	"func_exponential_simd.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\func_vector_relational.inl
+	<limits>
+	"func_vector_relational_simd.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\func_vector_relational_simd.inl
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\detail\func_exponential_simd.inl
+	"../simd/exponential.h"
+
+1477974037 c:\users\jwang6\desktop\gfx\glm\glm\simd\exponential.h
+	"platform.h"
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+	"func_common_simd.inl"
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\detail\func_common_simd.inl
+	"../simd/common.h"
+	<immintrin.h>
+
+1477974037 c:\users\jwang6\desktop\gfx\glm\glm\simd\common.h
+	"platform.h"
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\detail\func_geometric_simd.inl
+	"../simd/geometric.h"
+
+1477974037 c:\users\jwang6\desktop\gfx\glm\glm\simd\geometric.h
+	"common.h"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\func_matrix_simd.inl
+	"type_mat4x4.hpp"
+	"func_geometric.hpp"
+	"../simd/matrix.h"
+
+1477974037 c:\users\jwang6\desktop\gfx\glm\glm\simd\matrix.h
+	"geometric.h"
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\func_trigonometric.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_trigonometric.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+	"func_trigonometric_simd.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\func_trigonometric_simd.inl
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\common.hpp
+	"detail/func_common.hpp"
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+	"func_packing_simd.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\type_half.inl
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\func_packing_simd.inl
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1477974033 c:\users\jwang6\desktop\gfx\glm\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_common.hpp"
+	"func_vector_relational.hpp"
+	"func_integer.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+	"func_integer_simd.inl"
+
+1477974034 c:\users\jwang6\desktop\gfx\glm\glm\detail\func_integer_simd.inl
+	"../simd/integer.h"
+
+1477974037 c:\users\jwang6\desktop\gfx\glm\glm\simd\integer.h
+
+1480892865 source:c:\users\jwang6\desktop\gfx\solarsystem\getbmp.cpp
+	<fstream>
+	"getbmp.h"
+
+1480892865 c:\users\jwang6\desktop\gfx\solarsystem\getbmp.h
+
+1480892865 source:c:\users\jwang6\desktop\gfx\solarsystem\shader.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<cstring>
+	"shader.h"
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<OpenGL/glext.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/glext.h>
+
+1480892865 c:\users\jwang6\desktop\gfx\solarsystem\shader.h
+
+1480892865 source:c:\users\jwang6\desktop\gfx\solarsystem\sphere.cpp
+	<cmath>
+	<iostream>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<OpenGL/glext.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/glext.h>
+	"sphere.h"
+
+1480892865 c:\users\jwang6\desktop\gfx\solarsystem\sphere.h
+	"vertex.h"
+
+1481008948 source:c:\users\jwang6\desktop\gfx\solarsystem\main.cpp
+	<cmath>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<OpenGL/glext.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/glext.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<glm/gtc/matrix_inverse.hpp>
+	"shader.h"
+	"sphere.h"
+	"light.h"
+	"material.h"
+	"getbmp.h"
+	"vertex.h"
+	"myCone.h"
+
+1477974035 c:\users\jwang6\desktop\gfx\glm\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1477974035 c:\users\jwang6\desktop\gfx\glm\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1477974035 c:\users\jwang6\desktop\gfx\glm\glm\gtc\constants.inl
+	<limits>
+
+1477974035 c:\users\jwang6\desktop\gfx\glm\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1477974035 c:\users\jwang6\desktop\gfx\glm\glm\gtc\type_ptr.hpp
+	"../gtc/quaternion.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	<cstring>
+	"type_ptr.inl"
+
+1477974035 c:\users\jwang6\desktop\gfx\glm\glm\gtc\quaternion.hpp
+	"../mat3x3.hpp"
+	"../mat4x4.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"quaternion.inl"
+
+1477974035 c:\users\jwang6\desktop\gfx\glm\glm\gtc\quaternion.inl
+	"../trigonometric.hpp"
+	"../geometric.hpp"
+	"../exponential.hpp"
+	<limits>
+	"quaternion_simd.inl"
+
+1477974035 c:\users\jwang6\desktop\gfx\glm\glm\gtc\quaternion_simd.inl
+
+1477974035 c:\users\jwang6\desktop\gfx\glm\glm\gtc\type_ptr.inl
+	<cstring>
+
+1477974035 c:\users\jwang6\desktop\gfx\glm\glm\gtc\matrix_inverse.hpp
+	"../detail/setup.hpp"
+	"../matrix.hpp"
+	"../mat2x2.hpp"
+	"../mat3x3.hpp"
+	"../mat4x4.hpp"
+	"matrix_inverse.inl"
+
+1477974035 c:\users\jwang6\desktop\gfx\glm\glm\gtc\matrix_inverse.inl
+
+1480892865 c:\users\jwang6\desktop\gfx\solarsystem\light.h
+	<glm/glm.hpp>
+
+1480892865 c:\users\jwang6\desktop\gfx\solarsystem\material.h
+	<glm/glm.hpp>
+
+1480912205 source:c:\users\ljohnson7\documents\solarsystem\getbmp.cpp
+	<fstream>
+	"getbmp.h"
+
+1480912205 c:\users\ljohnson7\documents\solarsystem\getbmp.h
+
+1480993942 source:c:\users\ljohnson7\documents\solarsystem\main.cpp
+	<cmath>
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<OpenGL/glext.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/glext.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<glm/gtc/matrix_inverse.hpp>
+	"shader.h"
+	"sphere.h"
+	"light.h"
+	"material.h"
+	"getbmp.h"
+	"vertex.h"
+	"myCone.h"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\_fixes.hpp
+	<cmath>
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_int.hpp
+	"setup.hpp"
+	<type_traits>
+	<cstdint>
+
+1474825400 c:\users\ljohnson7\documents\glm\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	"../simd/platform.h"
+
+1473918304 c:\users\ljohnson7\documents\glm\glm\simd\platform.h
+	<cuda.h>
+	<intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<nmmintrin.h>
+	<smmintrin.h>
+	<tmmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1474252188 c:\users\ljohnson7\documents\glm\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\precision.hpp
+	"setup.hpp"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1473918304 c:\users\ljohnson7\documents\glm\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\_swizzle.hpp
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\_swizzle_func.hpp
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_vec2.inl
+
+1473918304 c:\users\ljohnson7\documents\glm\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_vec3.inl
+
+1473918304 c:\users\ljohnson7\documents\glm\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_vec4.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_vec4.inl
+	"type_vec4_simd.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_vec4_simd.inl
+
+1473918304 c:\users\ljohnson7\documents\glm\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_mat2x2.inl
+	"func_matrix.hpp"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1473918304 c:\users\ljohnson7\documents\glm\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_mat2x3.inl
+
+1473918304 c:\users\ljohnson7\documents\glm\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_mat2x4.inl
+
+1473918304 c:\users\ljohnson7\documents\glm\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_mat3x2.inl
+
+1473918304 c:\users\ljohnson7\documents\glm\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_mat3x3.inl
+	"func_matrix.hpp"
+
+1473918304 c:\users\ljohnson7\documents\glm\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_mat3x4.inl
+
+1473918304 c:\users\ljohnson7\documents\glm\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_mat4x2.inl
+
+1473918304 c:\users\ljohnson7\documents\glm\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_mat4x3.inl
+
+1473918304 c:\users\ljohnson7\documents\glm\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_mat4x4.inl
+	"func_matrix.hpp"
+	"type_mat4x4_simd.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_mat4x4_simd.inl
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+	"func_matrix_simd.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+	"func_geometric_simd.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_vec1.inl
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+	"func_exponential_simd.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\func_vector_relational.inl
+	<limits>
+	"func_vector_relational_simd.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\func_vector_relational_simd.inl
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\func_exponential_simd.inl
+	"../simd/exponential.h"
+
+1473918304 c:\users\ljohnson7\documents\glm\glm\simd\exponential.h
+	"platform.h"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+	"func_common_simd.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\func_common_simd.inl
+	"../simd/common.h"
+	<immintrin.h>
+
+1473918304 c:\users\ljohnson7\documents\glm\glm\simd\common.h
+	"platform.h"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\func_geometric_simd.inl
+	"../simd/geometric.h"
+
+1473918304 c:\users\ljohnson7\documents\glm\glm\simd\geometric.h
+	"common.h"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\func_matrix_simd.inl
+	"type_mat4x4.hpp"
+	"func_geometric.hpp"
+	"../simd/matrix.h"
+
+1473918304 c:\users\ljohnson7\documents\glm\glm\simd\matrix.h
+	"geometric.h"
+
+1473918304 c:\users\ljohnson7\documents\glm\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\func_trigonometric.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_trigonometric.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+	"func_trigonometric_simd.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\func_trigonometric_simd.inl
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\common.hpp
+	"detail/func_common.hpp"
+
+1473918304 c:\users\ljohnson7\documents\glm\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+	"func_packing_simd.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\type_half.inl
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\func_packing_simd.inl
+
+1473918304 c:\users\ljohnson7\documents\glm\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1473918304 c:\users\ljohnson7\documents\glm\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1473918304 c:\users\ljohnson7\documents\glm\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_common.hpp"
+	"func_vector_relational.hpp"
+	"func_integer.inl"
+
+1474825090 c:\users\ljohnson7\documents\glm\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+	"func_integer_simd.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\detail\func_integer_simd.inl
+	"../simd/integer.h"
+
+1473918304 c:\users\ljohnson7\documents\glm\glm\simd\integer.h
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\gtc\constants.inl
+	<limits>
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\gtc\type_ptr.hpp
+	"../gtc/quaternion.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	<cstring>
+	"type_ptr.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\gtc\quaternion.hpp
+	"../mat3x3.hpp"
+	"../mat4x4.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"quaternion.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\gtc\quaternion.inl
+	"../trigonometric.hpp"
+	"../geometric.hpp"
+	"../exponential.hpp"
+	<limits>
+	"quaternion_simd.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\gtc\quaternion_simd.inl
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\gtc\type_ptr.inl
+	<cstring>
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\gtc\matrix_inverse.hpp
+	"../detail/setup.hpp"
+	"../matrix.hpp"
+	"../mat2x2.hpp"
+	"../mat3x3.hpp"
+	"../mat4x4.hpp"
+	"matrix_inverse.inl"
+
+1473918302 c:\users\ljohnson7\documents\glm\glm\gtc\matrix_inverse.inl
+
+1480912205 c:\users\ljohnson7\documents\solarsystem\shader.h
+
+1480912205 c:\users\ljohnson7\documents\solarsystem\sphere.h
+	"vertex.h"
+
+1480912205 c:\users\ljohnson7\documents\solarsystem\vertex.h
+	<glm/glm.hpp>
+
+1480912205 c:\users\ljohnson7\documents\solarsystem\light.h
+	<glm/glm.hpp>
+
+1480912205 c:\users\ljohnson7\documents\solarsystem\material.h
+	<glm/glm.hpp>
+
+1480912205 source:c:\users\ljohnson7\documents\solarsystem\shader.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<cstring>
+	"shader.h"
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<OpenGL/glext.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/glext.h>
+
+1480986020 source:c:\users\ljohnson7\documents\solarsystem\sphere.cpp
+	<cmath>
+	<iostream>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<OpenGL/glext.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/glext.h>
+	"sphere.h"
+
+1480982338 source:c:\users\ljohnson7\documents\solarsystem\mycone.cpp
+	"myCone.h"
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<OpenGL/glext.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/glext.h>
+	<cmath>
+	"vertex.h"
+
+1480982332 c:\users\ljohnson7\documents\solarsystem\mycone.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<OpenGL/glext.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/glext.h>
+	"vertex.h"
+
+1480982629 source:c:\users\jwang6\desktop\gfx\solarsystem\mycone.cpp
+	"myCone.h"
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<OpenGL/glext.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/glext.h>
+	<cmath>
+	"vertex.h"
+
+1480982629 c:\users\jwang6\desktop\gfx\solarsystem\mycone.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<OpenGL/glext.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/glext.h>
+	"vertex.h"
+
+1481046011 source:u:\cpsc425\solarsystem\mycone.cpp
+	"myCone.h"
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<OpenGL/glext.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/glext.h>
+	<cmath>
+	"vertex.h"
+
+1481046501 u:\cpsc425\solarsystem\mycone.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<OpenGL/glext.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<GL/glext.h>
+	"vertex.h"
+
