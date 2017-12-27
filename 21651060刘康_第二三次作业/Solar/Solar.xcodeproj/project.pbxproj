@@ -1,0 +1,352 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		563AD44D1E7A90690094241C /* Shader.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 563AD44B1E7A90690094241C /* Shader.cpp */; };
+		563AD44F1E7A906F0094241C /* sunAndEarthAndMoon.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 563AD44E1E7A906F0094241C /* sunAndEarthAndMoon.cpp */; };
+		563AD4521E7A91C00094241C /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 563AD4511E7A91C00094241C /* OpenGL.framework */; };
+		563AD4541E7A91C70094241C /* GLUT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 563AD4531E7A91C70094241C /* GLUT.framework */; };
+		563AD4561E7A91DE0094241C /* libGLEW.2.0.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 563AD4551E7A91DE0094241C /* libGLEW.2.0.0.dylib */; };
+		563AD4581E7A91EE0094241C /* libglfw.3.2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 563AD4571E7A91EE0094241C /* libglfw.3.2.dylib */; };
+		563AD45A1E7A92040094241C /* libSOIL.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 563AD4591E7A92040094241C /* libSOIL.a */; };
+		563AD45C1E7A96460094241C /* libassimp.3.3.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 563AD45B1E7A96460094241C /* libassimp.3.3.1.dylib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		563AD43D1E7A8F910094241C /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		563AD43F1E7A8F910094241C /* MySolarSystem */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MySolarSystem; sourceTree = BUILT_PRODUCTS_DIR; };
+		563AD4491E7A90690094241C /* Mesh.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Mesh.h; sourceTree = "<group>"; };
+		563AD44A1E7A90690094241C /* Model.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Model.h; sourceTree = "<group>"; };
+		563AD44B1E7A90690094241C /* Shader.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Shader.cpp; sourceTree = "<group>"; };
+		563AD44C1E7A90690094241C /* Shader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Shader.h; sourceTree = "<group>"; };
+		563AD44E1E7A906F0094241C /* sunAndEarthAndMoon.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = sunAndEarthAndMoon.cpp; sourceTree = "<group>"; };
+		563AD4511E7A91C00094241C /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
+		563AD4531E7A91C70094241C /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = System/Library/Frameworks/GLUT.framework; sourceTree = SDKROOT; };
+		563AD4551E7A91DE0094241C /* libGLEW.2.0.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libGLEW.2.0.0.dylib; path = ../../../../../../../usr/local/Cellar/glew/2.0.0/lib/libGLEW.2.0.0.dylib; sourceTree = "<group>"; };
+		563AD4571E7A91EE0094241C /* libglfw.3.2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libglfw.3.2.dylib; path = ../../../../../../../usr/local/Cellar/glfw/3.2.1/lib/libglfw.3.2.dylib; sourceTree = "<group>"; };
+		563AD4591E7A92040094241C /* libSOIL.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libSOIL.a; path = ../../../../../../../usr/local/Cellar/SOIL/lib/libSOIL.a; sourceTree = "<group>"; };
+		563AD45B1E7A96460094241C /* libassimp.3.3.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libassimp.3.3.1.dylib; path = ../../../../../../../usr/local/Cellar/assimp/3.3.1/lib/libassimp.3.3.1.dylib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		563AD43C1E7A8F910094241C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				563AD45C1E7A96460094241C /* libassimp.3.3.1.dylib in Frameworks */,
+				563AD45A1E7A92040094241C /* libSOIL.a in Frameworks */,
+				563AD4581E7A91EE0094241C /* libglfw.3.2.dylib in Frameworks */,
+				563AD4561E7A91DE0094241C /* libGLEW.2.0.0.dylib in Frameworks */,
+				563AD4541E7A91C70094241C /* GLUT.framework in Frameworks */,
+				563AD4521E7A91C00094241C /* OpenGL.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		563AD4361E7A8F910094241C = {
+			isa = PBXGroup;
+			children = (
+				563AD4411E7A8F910094241C /* MySolarSystem */,
+				563AD4401E7A8F910094241C /* Products */,
+				563AD4501E7A91C00094241C /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		563AD4401E7A8F910094241C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				563AD43F1E7A8F910094241C /* MySolarSystem */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		563AD4411E7A8F910094241C /* MySolarSystem */ = {
+			isa = PBXGroup;
+			children = (
+				563AD44E1E7A906F0094241C /* sunAndEarthAndMoon.cpp */,
+				563AD4491E7A90690094241C /* Mesh.h */,
+				563AD44A1E7A90690094241C /* Model.h */,
+				563AD44B1E7A90690094241C /* Shader.cpp */,
+				563AD44C1E7A90690094241C /* Shader.h */,
+			);
+			path = MySolarSystem;
+			sourceTree = "<group>";
+		};
+		563AD4501E7A91C00094241C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				563AD45B1E7A96460094241C /* libassimp.3.3.1.dylib */,
+				563AD4591E7A92040094241C /* libSOIL.a */,
+				563AD4571E7A91EE0094241C /* libglfw.3.2.dylib */,
+				563AD4551E7A91DE0094241C /* libGLEW.2.0.0.dylib */,
+				563AD4531E7A91C70094241C /* GLUT.framework */,
+				563AD4511E7A91C00094241C /* OpenGL.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		563AD43E1E7A8F910094241C /* MySolarSystem */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 563AD4461E7A8F910094241C /* Build configuration list for PBXNativeTarget "MySolarSystem" */;
+			buildPhases = (
+				563AD43B1E7A8F910094241C /* Sources */,
+				563AD43C1E7A8F910094241C /* Frameworks */,
+				563AD43D1E7A8F910094241C /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MySolarSystem;
+			productName = MySolarSystem;
+			productReference = 563AD43F1E7A8F910094241C /* MySolarSystem */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		563AD4371E7A8F910094241C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = Sara;
+				TargetAttributes = {
+					563AD43E1E7A8F910094241C = {
+						CreatedOnToolsVersion = 8.2.1;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 563AD43A1E7A8F910094241C /* Build configuration list for PBXProject "MySolarSystem" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 563AD4361E7A8F910094241C;
+			productRefGroup = 563AD4401E7A8F910094241C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				563AD43E1E7A8F910094241C /* MySolarSystem */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		563AD43B1E7A8F910094241C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				563AD44F1E7A906F0094241C /* sunAndEarthAndMoon.cpp in Sources */,
+				563AD44D1E7A90690094241C /* Shader.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		563AD4441E7A8F910094241C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		563AD4451E7A8F910094241C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		563AD4471E7A8F910094241C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				HEADER_SEARCH_PATHS = (
+					"$(soil_header)",
+					"$(glfw_header)",
+					"$(glew_header)",
+					"$(assimp_header)",
+					"$(glm_header)",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(soil_lib)",
+					"$(glfw_lib)",
+					"$(glew_lib)",
+					/usr/local/Cellar/glew/2.0.0/lib,
+					/usr/local/Cellar/glfw/3.2.1/lib,
+					/usr/local/Cellar/SOIL/lib,
+					"&(assimp_lib)",
+					"$(glm_lib)",
+					/usr/local/Cellar/assimp/3.3.1/lib,
+				);
+				OTHER_LDFLAGS = (
+					"-lSOIL",
+					"-Wall",
+					"-framework",
+					OpenGL,
+					"-framework",
+					GLUT,
+					"-framework",
+					CoreFoundation,
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		563AD4481E7A8F910094241C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				HEADER_SEARCH_PATHS = (
+					"$(soil_header)",
+					"$(glfw_header)",
+					"$(glew_header)",
+					"$(assimp_header)",
+					"$(glm_header)",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(soil_lib)",
+					"$(glfw_lib)",
+					"$(glew_lib)",
+					/usr/local/Cellar/glew/2.0.0/lib,
+					/usr/local/Cellar/glfw/3.2.1/lib,
+					/usr/local/Cellar/SOIL/lib,
+					"&(assimp_lib)",
+					"$(glm_lib)",
+					/usr/local/Cellar/assimp/3.3.1/lib,
+				);
+				OTHER_LDFLAGS = (
+					"-lSOIL",
+					"-Wall",
+					"-framework",
+					OpenGL,
+					"-framework",
+					GLUT,
+					"-framework",
+					CoreFoundation,
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		563AD43A1E7A8F910094241C /* Build configuration list for PBXProject "MySolarSystem" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				563AD4441E7A8F910094241C /* Debug */,
+				563AD4451E7A8F910094241C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		563AD4461E7A8F910094241C /* Build configuration list for PBXNativeTarget "MySolarSystem" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				563AD4471E7A8F910094241C /* Debug */,
+				563AD4481E7A8F910094241C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 563AD4371E7A8F910094241C /* Project object */;
+}

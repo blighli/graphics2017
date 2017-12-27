@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="johnsonWangFinalProject" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/wangLitCylinderTextured" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="../SolarSystem" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/wangLitCylinderTextured" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="../SolarSystem" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="C:/MinGW/include" />
+			<Add directory="../glm" />
+			<Add directory="../../glm" />
+		</Compiler>
+		<Linker>
+			<Add library="freeglut" />
+			<Add library="glew32" />
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="winmm" />
+			<Add library="gdi32" />
+			<Add directory="C:/MinGW/lib" />
+		</Linker>
+		<Unit filename="getbmp.cpp" />
+		<Unit filename="getbmp.h" />
+		<Unit filename="light.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="material.h" />
+		<Unit filename="myCone.cpp" />
+		<Unit filename="myCone.h" />
+		<Unit filename="shader.cpp" />
+		<Unit filename="shader.h" />
+		<Unit filename="sphere.cpp" />
+		<Unit filename="sphere.h" />
+		<Unit filename="vertex.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
